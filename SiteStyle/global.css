@@ -77,14 +77,6 @@ html
     background-color: #04AA6D;
     color: white;
 }
-/*footer*/
-.footer 
-{
-    position: absolute;
-    bottom: 0px;
-    width: 100%;
-    height: 100px;
-}
 
 /*table*/
 .tg  
@@ -154,10 +146,5 @@ html
     border-radius: 4px;
     margin-bottom: 5px;
   }
-body
-{
-    min-height: 400px;
-    margin-bottom: 100px;
-    clear: both;
-}
+
 </style>
